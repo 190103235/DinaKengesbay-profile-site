@@ -1,6 +1,6 @@
 
 
-Lab7:
+Lab7:               
 /api/posts:
 ![api](https://user-images.githubusercontent.com/75376014/111750697-bc0b8480-88bd-11eb-97f7-dc048c1e64d9.png)
 
