@@ -1,12 +1,15 @@
 
 
-Lab5: 
-![7](https://user-images.githubusercontent.com/75376014/111148910-6762c380-85b6-11eb-88fc-f3e6508cef47.png)
-![6](https://user-images.githubusercontent.com/75376014/111148932-6c277780-85b6-11eb-9ca8-afdb9ff3751a.png)
+Lab7:
+/api/posts:
+![api](https://user-images.githubusercontent.com/75376014/111750697-bc0b8480-88bd-11eb-97f7-dc048c1e64d9.png)
 
-Lab6:
-![8](https://user-images.githubusercontent.com/75376014/111157666-59667000-85c1-11eb-9973-e2d0e4836406.png)
-![9](https://user-images.githubusercontent.com/75376014/111157685-608d7e00-85c1-11eb-9ef2-5e3f2a571111.png)
+/posts/details:
+![postman1](https://user-images.githubusercontent.com/75376014/111750631-a72ef100-88bd-11eb-95c3-687d0d8b72f4.png)
+![postman2](https://user-images.githubusercontent.com/75376014/111750647-ad24d200-88bd-11eb-9cb3-f8540ec8e1de.png)
+![postman3](https://user-images.githubusercontent.com/75376014/111750663-b2821c80-88bd-11eb-8842-e203bd7ea4b6.png)
+
+
 
 
 Description: 
